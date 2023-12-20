@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmy_vuetify_app"]=self["webpackChunkmy_vuetify_app"]||[]).push([[2063],{2063:function(n,e,u){u.r(e),u.d(e,{default:function(){return p}});var t=u(3396);const a={class:"home"},r=(0,t._)("h1",null,"Page not found",-1),o=[r];function c(n,e,u,r,c,f){return(0,t.wg)(),(0,t.iD)("div",a,o)}var f=(0,t.aZ)({name:"NotFoundView"}),i=u(89);const s=(0,i.Z)(f,[["render",c]]);var p=s}}]);
+//# sourceMappingURL=2063.27dd713c.js.map
